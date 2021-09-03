@@ -1,10 +1,7 @@
-
-
 # MeditaCoeur
 
-<a href="https://apps.apple.com/fr/app/meditacoeur/id1545172717?l=en"><img src="https://user-images.githubusercontent.com/84988600/131992812-4335ebf3-de0c-4aa1-86ab-941d00520f53.png" /></a>
+<center><a href="https://apps.apple.com/fr/app/meditacoeur/id1545172717?l=fr" align="middle"><img src="https://user-images.githubusercontent.com/84988600/131994067-7bd67d7c-bc80-4be9-901a-83e90bad567c.png" align="middle"/></a> <a href="https://apps.apple.com/fr/app/meditacoeur/id1545172717?l=fr" align="middle"><img src="https://user-images.githubusercontent.com/84988600/131994859-b61086b5-e75b-45f2-b39b-1b145db1970b.png" align="middle"/></a></center>
 
-<a href="https://apps.apple.com/fr/app/meditacoeur/id1545172717?l=en"><img src="https://user-images.githubusercontent.com/84988600/131993102-342f3d05-d005-4df7-b9fd-ccd8388600fc.png" /></a>
 
 D'après le livre:
 
